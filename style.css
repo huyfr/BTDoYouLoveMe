@@ -1,0 +1,8 @@
+.main {
+    margin-left: 500px;
+}
+.noButton {
+    position: absolute;
+    left: 700px;
+    top: 102px;
+}
